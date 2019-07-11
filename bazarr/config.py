@@ -113,6 +113,9 @@ defaults = {
     'napisy24': {
         'username': '',
         'password': ''
+    },
+    'betaseries': {
+        'token': ''
     }
 }
 
